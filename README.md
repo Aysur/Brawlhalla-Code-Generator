@@ -10,8 +10,7 @@ Portable utility that helps you generate brawlhalla codes.
 Brawlgen is recommended if you wan't to generate codes fast and safe.
 
 <p align="center">
-	<a href="https://github.com/hellzerg/optimizer/releases/download/12.7/Optimizer-12.7.exe" target="_blank">
-		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
+<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
 
 * Lightning speed generating
 * Lightweight cpu usage
@@ -33,8 +32,8 @@ Coming soon
 * Can run under Windows Server 2008, 2012, 2016, 2019, 2022 using /unsafe switch
 
 ## Tools used: ##
-* Created in python 3+
-* Thanks for this really tiny, yet extremely useful library
+* Visual Studio Code
+* Python
 
 ## Credits to co-developers: ##
 * Zardex
@@ -43,3 +42,6 @@ Coming soon
 
 * Latest version: Downloads
 * Released: April 5, 2022
+	
+
+## Thanks for this really tiny, yet extremely useful libary ##
