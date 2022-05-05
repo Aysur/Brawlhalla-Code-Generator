@@ -36,6 +36,6 @@ https://github.com/Aysur/Brawlhalla-Code-Generator/releases
 
 * Latest version: Downloads
 * Released: April 5, 2022
-	
 
-## Thanks for this really tiny, yet extremely useful libary ##
+*If you improved it lmk and i might add your improvements to the code, thanks!*
+
