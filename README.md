@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 
-  # Brawlhalla Code Generator 
+  # Brawlhalla Code Generator 🚀
 
 </div>
 	
