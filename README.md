@@ -6,7 +6,7 @@
 </div>
 	
 <p align="center">
-    <img src="images/pngaaa.com-154820.png" alt="Logo" width="500" height="300">
+    <img src="images/kisspng-brawlhalla-rocket-league-playstation-4-video-game-brawlhalla-5b41520403c954.9012946415310074920155.png"
   </a>
 	
 ## About: ##
