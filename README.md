@@ -5,6 +5,10 @@
 
 </div>
 	
+<p align="center">
+    <img src="images/pngaaa.com-154820.png" alt="Logo" width="500" height="300">
+  </a>
+	
 ## About: ##
 A Brawlhalla code generator The first of it's kind that generates thousands of codes in seconds! Feel free to use it and improve it. If you do don't forget to leave credit behind.
 
