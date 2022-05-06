@@ -6,7 +6,7 @@
 </div>
 	
 <p align="center">
-    <img src="images/brawlhallatitle.png"
+    <img src="images/Color_Goldforged.png"
   </a>
 	
 ## About: ##
